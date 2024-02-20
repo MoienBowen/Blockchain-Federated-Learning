@@ -3,3 +3,5 @@ This repo is the source code of the paper Blockchain-mediated Privacy-preserving
 The paper link will be updated once the paper is published.
 
 Please reach me via email if you have any question.
+
+Updated version is comming soon.
